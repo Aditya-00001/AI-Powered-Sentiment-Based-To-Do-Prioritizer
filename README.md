@@ -173,8 +173,12 @@ DELETE /api/tasks/:id
 
 ## 📸 Demo (Screenshots)
 
-> ![Task List Demo](Screenshot from 2025-08-29 14-28-01.png)
-> ![Add Task Demo](Screenshot from 2025-08-29 14-29-11.png)
+<!--> |![Task List Demo](Screenshot%20from%202025-08-29%2014-28-01.png) | ![Add Task Demo](Screenshot%20from%202025-08-29%2014-29-11.png)
+<p align="center">
+  <img src="Screenshot%20from%202025-08-29%2014-28-01.png" alt="Task List Demo" width="45%"/>
+  <img src="Screenshot%20from%202025-08-29%2014-29-11.png" alt="Add Task Demo" width="45%"/>
+</p>
+
 
 ---
 
