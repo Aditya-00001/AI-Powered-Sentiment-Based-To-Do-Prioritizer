@@ -184,5 +184,5 @@ DELETE /api/tasks/:id
 
 ## 👨‍💻 Author
 
-###    [Aditya Narayan Jena](https://github.com/Aditya-00001)
+###    <a href="https://github.com/Aditya-00001" target="_blank">Aditya Narayan Jena</a>
 🚀 Full-Stack Machine Learning Student Developer | Innovator
