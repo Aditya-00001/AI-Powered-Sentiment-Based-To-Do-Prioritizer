@@ -173,8 +173,8 @@ DELETE /api/tasks/:id
 
 ## 📸 Demo (Screenshots)
 
-> ![Task List Demo](docs/demo-tasklist.png)
-> ![Add Task Demo](docs/demo-addtask.png)
+> ![Task List Demo](Screenshot from 2025-08-29 14-28-01.png)
+> ![Add Task Demo](Screenshot from 2025-08-29 14-29-11.png)
 
 ---
 
