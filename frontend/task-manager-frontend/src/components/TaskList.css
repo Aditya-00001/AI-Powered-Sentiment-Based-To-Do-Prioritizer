@@ -1,0 +1,95 @@
+.task-container {
+  padding: 20px;
+  max-width: 600px;
+  margin: auto;
+}
+
+.heading {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+  text-align: center;
+}
+
+.task-list {
+  list-style: none;
+  padding: 0;
+}
+
+.task-card {
+  background: #fff;
+  border: 1px solid #ddd;
+  padding: 15px;
+  margin-bottom: 12px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.task-card h3 {
+  color: #222; /* dark gray/black */
+  margin: 0 0 6px 0;
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.task-card p {
+  margin: 0 0 10px 0;
+  color: #555;
+}
+
+/* Buttons */
+.btn-group {
+  margin-top: 8px;
+}
+
+.btn {
+  border: none;
+  padding: 6px 12px;
+  margin-right: 8px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 0.9rem;
+}
+
+.btn.edit { background: #f39c12; color: white; }
+.btn.delete { background: #e74c3c; color: white; }
+.btn.save { background: #2ecc71; color: white; }
+.btn.cancel { background: #7f8c8d; color: white; }
+
+.btn:hover { opacity: 0.9; }
+
+/* Inputs */
+.input, .textarea {
+  width: 90%;
+  padding: 10px;
+  margin-bottom: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Badges */
+.badge {
+  display: inline-block;
+  padding: 4px 8px;
+  border-radius: 12px;
+  font-size: 0.8rem;
+  color: white;
+}
+
+.badge.positive { background: #2ecc71; }
+.badge.negative { background: #e74c3c; }
+.badge.neutral { background: #95a5a6; }
+
+.empty-text {
+  text-align: center;
+  color: #777;
+}
+
+/* TaskList.css */
+.task-container {
+  padding: 20px;
+  max-width: 600px;
+  margin: 20px auto;   /* center horizontally */
+  text-align: center;  /* center align text */
+}
