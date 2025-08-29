@@ -61,7 +61,7 @@ AI-Powered-Sentiment-Based-To-Do-Prioritizer/
 ### 1. Clone repository
 
 ```bash
-git clone https://github.com/<your-username>/AI-Powered-Sentiment-Based-To-Do-Prioritizer.git
+git clone https://github.com/Aditya-00001/AI-Powered-Sentiment-Based-To-Do-Prioritizer.git
 cd AI-Powered-Sentiment-Based-To-Do-Prioritizer
 ```
 
@@ -173,7 +173,7 @@ DELETE /api/tasks/:id
 
 ## 📸 Demo (Screenshots)
 
-<!--> |![Task List Demo](Screenshot%20from%202025-08-29%2014-28-01.png) | ![Add Task Demo](Screenshot%20from%202025-08-29%2014-29-11.png)
+<!-- |![Task List Demo](Screenshot%20from%202025-08-29%2014-28-01.png) | ![Add Task Demo](Screenshot%20from%202025-08-29%2014-29-11.png) -->
 <p align="center">
   <img src="Screenshot%20from%202025-08-29%2014-28-01.png" alt="Task List Demo" width="45%"/>
   <img src="Screenshot%20from%202025-08-29%2014-29-11.png" alt="Add Task Demo" width="45%"/>
@@ -184,5 +184,5 @@ DELETE /api/tasks/:id
 
 ## 👨‍💻 Author
 
-**Aditya Narayan Jena**
+###    [Aditya Narayan Jena](https://github.com/Aditya-00001)
 🚀 Full-Stack Machine Learning Student Developer | Innovator
